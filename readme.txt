@@ -1,1 +1,1 @@
-Free Code Camp's Git It course
+Reviewing my Git knowledge with Free Code Camp's Git It course
